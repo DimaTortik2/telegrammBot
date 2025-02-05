@@ -75,4 +75,4 @@ bot.start()
 
 
 
-console.log(process.env.MESSAGE)
+console.log('hi')
